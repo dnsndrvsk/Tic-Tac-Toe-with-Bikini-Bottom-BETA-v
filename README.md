@@ -1,5 +1,7 @@
 # Tic-Tac-Toe with Bikini Bottom ( The Game )
 
+<hr>
+
 Warning! There are two ways to open this game:
 
 1. Open this game normally (by opening index.html) with Mozilla Firefox browser.
